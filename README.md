@@ -169,7 +169,7 @@ com.ncfu.pw_11
 
 <div align="center">
 
-![Рисунок 1 - Главный экран приложения](images/image_1.png)
+<img width="374" height="730" alt="Снимок экрана 2026-05-09 194929" src="https://github.com/user-attachments/assets/8d087bb0-f8f1-4d05-9f92-cbd82dceb9f6" />
 
 *Рисунок 1. Главный экран приложения*
 
@@ -246,7 +246,7 @@ private String calculateArrayData() {
 
 <div align="center">
 
-![Рисунок 2 - Результат вычислений без потока](images/image_2.png)
+<img width="365" height="730" alt="Снимок экрана 2026-05-09 194944" src="https://github.com/user-attachments/assets/8df9b4e4-4578-4eda-bed7-bad5e50d3d09" />
 
 *Рисунок 2. Результат вычислений без использования фонового потока*
 
@@ -302,7 +302,7 @@ btnCalculateThread.setOnClickListener(v -> {
 
 <div align="center">
 
-![Рисунок 3 - Выполнение вычислений в фоновом потоке](images/image_3.png)
+<img width="327" height="247" alt="Снимок экрана 2026-05-09 195515" src="https://github.com/user-attachments/assets/6b5a4167-ed3f-4f34-ab3a-bca18fbcae84" />
 
 *Рисунок 3. Выполнение вычислений в фоновом потоке с отображением ProgressBar*
 
@@ -310,7 +310,7 @@ btnCalculateThread.setOnClickListener(v -> {
 
 <div align="center">
 
-![Рисунок 4 - Результат вычислений в фоновом потоке](images/image_4.png)
+<img width="363" height="735" alt="Снимок экрана 2026-05-09 195008" src="https://github.com/user-attachments/assets/2b474051-4eae-4142-82de-2cc763b8c85b" />
 
 *Рисунок 4. Результат вычислений после завершения фонового потока*
 
@@ -404,7 +404,7 @@ private Bitmap loadImage(String urlString) throws Exception {
 
 <div align="center">
 
-![Рисунок 5 - Загрузка изображений из интернета](images/image_5.png)
+<img width="362" height="738" alt="Снимок экрана 2026-05-09 195044" src="https://github.com/user-attachments/assets/536dabd0-8f32-4970-a402-4e25442a4e18" />
 
 *Рисунок 5. Результат загрузки изображений из интернета*
 
